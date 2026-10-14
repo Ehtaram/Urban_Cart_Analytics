@@ -1,0 +1,251 @@
+product_id,product_name,category,unit_cost,listing_price
+SKU_0001,Personal Care 1,Personal Care,422.07,653.68
+SKU_0002,Frozen Food 2,Instant & Frozen Foods,71.69,93.09
+SKU_0003,Personal Care 3,Personal Care,452.99,732.4
+SKU_0004,Beverage Snack 4,Snacks & Beverages,172.66,253.7
+SKU_0005,Home Clean 5,Household & Cleaning,406.1,607.19
+SKU_0006,Personal Care 6,Personal Care,372.31,617.56
+SKU_0007,Staples Pack 7,Staples & Grains,260.77,303.05
+SKU_0008,Beverage Snack 8,Snacks & Beverages,65.98,87.73
+SKU_0009,Staples Pack 9,Staples & Grains,149.59,179.12
+SKU_0010,Home Clean 10,Household & Cleaning,356.54,563.89
+SKU_0011,Personal Care 11,Personal Care,105.81,151.65
+SKU_0012,Dairy Baked 12,Dairy & Bakery,92.38,102.02
+SKU_0013,Personal Care 13,Personal Care,241.25,332.46
+SKU_0014,Home Clean 14,Household & Cleaning,199.8,294.16
+SKU_0015,Personal Care 15,Personal Care,192.74,299.91
+SKU_0016,Frozen Food 16,Instant & Frozen Foods,234.09,293.55
+SKU_0017,Personal Care 17,Personal Care,150.92,249.73
+SKU_0018,Produce Item 18,Fresh Produce,55.17,72.87
+SKU_0019,Personal Care 19,Personal Care,346.09,568.13
+SKU_0020,Personal Care 20,Personal Care,185.47,309.54
+SKU_0021,Staples Pack 21,Staples & Grains,433.87,503.3
+SKU_0022,Dairy Baked 22,Dairy & Bakery,227.25,265.83
+SKU_0023,Staples Pack 23,Staples & Grains,301.48,345.37
+SKU_0024,Staples Pack 24,Staples & Grains,136.87,163.34
+SKU_0025,Beverage Snack 25,Snacks & Beverages,178.02,241.16
+SKU_0026,Produce Item 26,Fresh Produce,116.01,153.43
+SKU_0027,Staples Pack 27,Staples & Grains,431.76,481.95
+SKU_0028,Frozen Food 28,Instant & Frozen Foods,319.83,465.67
+SKU_0029,Home Clean 29,Household & Cleaning,101.59,147.56
+SKU_0030,Frozen Food 30,Instant & Frozen Foods,146.92,189.34
+SKU_0031,Home Clean 31,Household & Cleaning,332.72,435.46
+SKU_0032,Personal Care 32,Personal Care,547.17,846.97
+SKU_0033,Beverage Snack 33,Snacks & Beverages,21.3,33.07
+SKU_0034,Produce Item 34,Fresh Produce,96.72,134.77
+SKU_0035,Frozen Food 35,Instant & Frozen Foods,295.87,421.19
+SKU_0036,Produce Item 36,Fresh Produce,102.45,140.94
+SKU_0037,Frozen Food 37,Instant & Frozen Foods,259.45,329.25
+SKU_0038,Personal Care 38,Personal Care,530.17,773.78
+SKU_0039,Home Clean 39,Household & Cleaning,134.15,187.84
+SKU_0040,Dairy Baked 40,Dairy & Bakery,195.0,236.95
+SKU_0041,Beverage Snack 41,Snacks & Beverages,128.94,167.35
+SKU_0042,Frozen Food 42,Instant & Frozen Foods,76.23,105.83
+SKU_0043,Frozen Food 43,Instant & Frozen Foods,60.64,87.11
+SKU_0044,Personal Care 44,Personal Care,65.19,99.9
+SKU_0045,Beverage Snack 45,Snacks & Beverages,41.03,64.35
+SKU_0046,Home Clean 46,Household & Cleaning,187.42,274.8
+SKU_0047,Home Clean 47,Household & Cleaning,138.31,223.32
+SKU_0048,Frozen Food 48,Instant & Frozen Foods,286.64,375.43
+SKU_0049,Dairy Baked 49,Dairy & Bakery,137.9,157.33
+SKU_0050,Dairy Baked 50,Dairy & Bakery,62.02,76.73
+SKU_0051,Produce Item 51,Fresh Produce,114.14,158.87
+SKU_0052,Beverage Snack 52,Snacks & Beverages,67.22,104.5
+SKU_0053,Beverage Snack 53,Snacks & Beverages,148.68,210.22
+SKU_0054,Home Clean 54,Household & Cleaning,89.37,143.14
+SKU_0055,Produce Item 55,Fresh Produce,38.69,51.04
+SKU_0056,Personal Care 56,Personal Care,453.02,701.59
+SKU_0057,Beverage Snack 57,Snacks & Beverages,155.32,224.45
+SKU_0058,Produce Item 58,Fresh Produce,24.48,30.57
+SKU_0059,Produce Item 59,Fresh Produce,42.77,50.51
+SKU_0060,Frozen Food 60,Instant & Frozen Foods,149.52,213.02
+SKU_0061,Home Clean 61,Household & Cleaning,162.24,235.64
+SKU_0062,Produce Item 62,Fresh Produce,82.05,101.98
+SKU_0063,Dairy Baked 63,Dairy & Bakery,176.84,207.03
+SKU_0064,Dairy Baked 64,Dairy & Bakery,164.4,204.1
+SKU_0065,Staples Pack 65,Staples & Grains,332.56,383.51
+SKU_0066,Home Clean 66,Household & Cleaning,312.58,485.8
+SKU_0067,Frozen Food 67,Instant & Frozen Foods,175.35,247.3
+SKU_0068,Personal Care 68,Personal Care,437.79,616.56
+SKU_0069,Staples Pack 69,Staples & Grains,114.92,124.63
+SKU_0070,Dairy Baked 70,Dairy & Bakery,249.08,278.33
+SKU_0071,Frozen Food 71,Instant & Frozen Foods,113.4,154.37
+SKU_0072,Staples Pack 72,Staples & Grains,379.26,426.49
+SKU_0073,Home Clean 73,Household & Cleaning,430.26,679.21
+SKU_0074,Frozen Food 74,Instant & Frozen Foods,195.85,269.53
+SKU_0075,Home Clean 75,Household & Cleaning,343.37,567.99
+SKU_0076,Produce Item 76,Fresh Produce,83.77,113.8
+SKU_0077,Beverage Snack 77,Snacks & Beverages,118.5,187.07
+SKU_0078,Produce Item 78,Fresh Produce,44.37,58.68
+SKU_0079,Home Clean 79,Household & Cleaning,144.74,213.91
+SKU_0080,Frozen Food 80,Instant & Frozen Foods,113.75,148.88
+SKU_0081,Dairy Baked 81,Dairy & Bakery,245.71,283.82
+SKU_0082,Personal Care 82,Personal Care,590.53,987.61
+SKU_0083,Dairy Baked 83,Dairy & Bakery,38.62,44.08
+SKU_0084,Frozen Food 84,Instant & Frozen Foods,311.42,462.37
+SKU_0085,Produce Item 85,Fresh Produce,101.54,119.1
+SKU_0086,Personal Care 86,Personal Care,173.32,289.4
+SKU_0087,Frozen Food 87,Instant & Frozen Foods,312.2,379.38
+SKU_0088,Home Clean 88,Household & Cleaning,190.07,322.27
+SKU_0089,Dairy Baked 89,Dairy & Bakery,202.07,228.5
+SKU_0090,Home Clean 90,Household & Cleaning,383.63,583.76
+SKU_0091,Personal Care 91,Personal Care,399.76,702.19
+SKU_0092,Personal Care 92,Personal Care,185.96,323.05
+SKU_0093,Dairy Baked 93,Dairy & Bakery,202.44,240.78
+SKU_0094,Home Clean 94,Household & Cleaning,168.14,284.76
+SKU_0095,Staples Pack 95,Staples & Grains,840.4,962.11
+SKU_0096,Home Clean 96,Household & Cleaning,371.42,499.18
+SKU_0097,Personal Care 97,Personal Care,569.2,805.93
+SKU_0098,Home Clean 98,Household & Cleaning,199.71,322.61
+SKU_0099,Frozen Food 99,Instant & Frozen Foods,208.99,251.78
+SKU_0100,Produce Item 100,Fresh Produce,42.86,50.65
+SKU_0101,Staples Pack 101,Staples & Grains,404.14,441.98
+SKU_0102,Beverage Snack 102,Snacks & Beverages,30.17,42.45
+SKU_0103,Frozen Food 103,Instant & Frozen Foods,147.75,203.61
+SKU_0104,Produce Item 104,Fresh Produce,62.46,75.29
+SKU_0105,Beverage Snack 105,Snacks & Beverages,118.42,178.17
+SKU_0106,Dairy Baked 106,Dairy & Bakery,229.47,275.1
+SKU_0107,Beverage Snack 107,Snacks & Beverages,68.26,100.7
+SKU_0108,Frozen Food 108,Instant & Frozen Foods,58.41,87.59
+SKU_0109,Home Clean 109,Household & Cleaning,390.45,574.16
+SKU_0110,Frozen Food 110,Instant & Frozen Foods,79.15,111.9
+SKU_0111,Beverage Snack 111,Snacks & Beverages,90.97,142.34
+SKU_0112,Personal Care 112,Personal Care,239.88,341.63
+SKU_0113,Produce Item 113,Fresh Produce,28.25,36.9
+SKU_0114,Produce Item 114,Fresh Produce,76.46,101.54
+SKU_0115,Beverage Snack 115,Snacks & Beverages,80.94,118.1
+SKU_0116,Produce Item 116,Fresh Produce,45.96,58.66
+SKU_0117,Personal Care 117,Personal Care,305.27,533.17
+SKU_0118,Frozen Food 118,Instant & Frozen Foods,80.89,112.96
+SKU_0119,Produce Item 119,Fresh Produce,107.16,138.0
+SKU_0120,Beverage Snack 120,Snacks & Beverages,158.48,221.96
+SKU_0121,Staples Pack 121,Staples & Grains,763.83,862.87
+SKU_0122,Staples Pack 122,Staples & Grains,717.11,808.79
+SKU_0123,Dairy Baked 123,Dairy & Bakery,189.16,216.94
+SKU_0124,Produce Item 124,Fresh Produce,47.81,58.03
+SKU_0125,Frozen Food 125,Instant & Frozen Foods,307.47,432.32
+SKU_0126,Beverage Snack 126,Snacks & Beverages,95.88,122.91
+SKU_0127,Produce Item 127,Fresh Produce,23.96,30.14
+SKU_0128,Home Clean 128,Household & Cleaning,350.39,507.74
+SKU_0129,Personal Care 129,Personal Care,123.72,170.73
+SKU_0130,Produce Item 130,Fresh Produce,115.45,148.98
+SKU_0131,Produce Item 131,Fresh Produce,85.35,106.92
+SKU_0132,Staples Pack 132,Staples & Grains,752.68,897.9
+SKU_0133,Personal Care 133,Personal Care,300.88,543.97
+SKU_0134,Beverage Snack 134,Snacks & Beverages,28.23,38.13
+SKU_0135,Produce Item 135,Fresh Produce,47.81,56.22
+SKU_0136,Staples Pack 136,Staples & Grains,470.71,517.11
+SKU_0137,Dairy Baked 137,Dairy & Bakery,133.49,163.8
+SKU_0138,Personal Care 138,Personal Care,256.82,418.14
+SKU_0139,Staples Pack 139,Staples & Grains,168.46,187.57
+SKU_0140,Staples Pack 140,Staples & Grains,254.14,287.56
+SKU_0141,Frozen Food 141,Instant & Frozen Foods,201.46,288.13
+SKU_0142,Staples Pack 142,Staples & Grains,558.73,648.68
+SKU_0143,Frozen Food 143,Instant & Frozen Foods,200.32,276.98
+SKU_0144,Produce Item 144,Fresh Produce,84.07,111.26
+SKU_0145,Produce Item 145,Fresh Produce,18.04,21.98
+SKU_0146,Dairy Baked 146,Dairy & Bakery,196.54,243.36
+SKU_0147,Home Clean 147,Household & Cleaning,196.9,270.26
+SKU_0148,Home Clean 148,Household & Cleaning,115.87,181.1
+SKU_0149,Home Clean 149,Household & Cleaning,87.14,139.11
+SKU_0150,Frozen Food 150,Instant & Frozen Foods,312.39,383.47
+SKU_0151,Personal Care 151,Personal Care,365.94,562.85
+SKU_0152,Personal Care 152,Personal Care,319.46,456.41
+SKU_0153,Dairy Baked 153,Dairy & Bakery,95.12,109.26
+SKU_0154,Personal Care 154,Personal Care,614.55,1012.85
+SKU_0155,Home Clean 155,Household & Cleaning,404.5,551.02
+SKU_0156,Home Clean 156,Household & Cleaning,354.23,467.55
+SKU_0157,Staples Pack 157,Staples & Grains,142.82,161.84
+SKU_0158,Personal Care 158,Personal Care,301.53,498.59
+SKU_0159,Produce Item 159,Fresh Produce,58.49,70.42
+SKU_0160,Produce Item 160,Fresh Produce,68.8,85.06
+SKU_0161,Staples Pack 161,Staples & Grains,165.39,192.08
+SKU_0162,Staples Pack 162,Staples & Grains,536.71,613.58
+SKU_0163,Staples Pack 163,Staples & Grains,317.48,351.28
+SKU_0164,Produce Item 164,Fresh Produce,118.37,137.75
+SKU_0165,Home Clean 165,Household & Cleaning,139.73,234.49
+SKU_0166,Staples Pack 166,Staples & Grains,670.86,786.05
+SKU_0167,Dairy Baked 167,Dairy & Bakery,90.13,100.77
+SKU_0168,Frozen Food 168,Instant & Frozen Foods,184.29,244.96
+SKU_0169,Staples Pack 169,Staples & Grains,179.47,205.3
+SKU_0170,Frozen Food 170,Instant & Frozen Foods,112.13,153.35
+SKU_0171,Beverage Snack 171,Snacks & Beverages,126.89,174.34
+SKU_0172,Staples Pack 172,Staples & Grains,385.74,450.95
+SKU_0173,Produce Item 173,Fresh Produce,60.8,76.91
+SKU_0174,Personal Care 174,Personal Care,92.11,138.77
+SKU_0175,Staples Pack 175,Staples & Grains,410.55,463.32
+SKU_0176,Personal Care 176,Personal Care,432.29,646.17
+SKU_0177,Beverage Snack 177,Snacks & Beverages,84.81,134.69
+SKU_0178,Dairy Baked 178,Dairy & Bakery,63.67,79.09
+SKU_0179,Personal Care 179,Personal Care,323.36,548.03
+SKU_0180,Frozen Food 180,Instant & Frozen Foods,147.7,196.59
+SKU_0181,Home Clean 181,Household & Cleaning,101.29,149.33
+SKU_0182,Staples Pack 182,Staples & Grains,388.35,423.08
+SKU_0183,Beverage Snack 183,Snacks & Beverages,159.28,240.68
+SKU_0184,Beverage Snack 184,Snacks & Beverages,55.45,84.43
+SKU_0185,Personal Care 185,Personal Care,91.21,152.01
+SKU_0186,Dairy Baked 186,Dairy & Bakery,144.39,163.03
+SKU_0187,Produce Item 187,Fresh Produce,96.5,119.45
+SKU_0188,Staples Pack 188,Staples & Grains,817.83,946.6
+SKU_0189,Beverage Snack 189,Snacks & Beverages,43.63,56.11
+SKU_0190,Dairy Baked 190,Dairy & Bakery,82.59,93.0
+SKU_0191,Home Clean 191,Household & Cleaning,119.62,191.83
+SKU_0192,Beverage Snack 192,Snacks & Beverages,32.06,50.75
+SKU_0193,Dairy Baked 193,Dairy & Bakery,166.29,194.49
+SKU_0194,Produce Item 194,Fresh Produce,74.19,96.07
+SKU_0195,Produce Item 195,Fresh Produce,86.52,118.58
+SKU_0196,Beverage Snack 196,Snacks & Beverages,122.88,196.03
+SKU_0197,Frozen Food 197,Instant & Frozen Foods,137.27,204.71
+SKU_0198,Beverage Snack 198,Snacks & Beverages,70.58,99.09
+SKU_0199,Personal Care 199,Personal Care,328.7,547.51
+SKU_0200,Staples Pack 200,Staples & Grains,693.17,797.82
+SKU_0201,Dairy Baked 201,Dairy & Bakery,104.19,115.77
+SKU_0202,Beverage Snack 202,Snacks & Beverages,93.88,118.59
+SKU_0203,Staples Pack 203,Staples & Grains,363.93,405.58
+SKU_0204,Personal Care 204,Personal Care,435.02,799.86
+SKU_0205,Staples Pack 205,Staples & Grains,149.53,172.15
+SKU_0206,Beverage Snack 206,Snacks & Beverages,81.52,118.46
+SKU_0207,Produce Item 207,Fresh Produce,115.19,153.75
+SKU_0208,Dairy Baked 208,Dairy & Bakery,34.23,42.32
+SKU_0209,Dairy Baked 209,Dairy & Bakery,153.62,173.32
+SKU_0210,Produce Item 210,Fresh Produce,78.53,100.15
+SKU_0211,Frozen Food 211,Instant & Frozen Foods,308.59,412.02
+SKU_0212,Beverage Snack 212,Snacks & Beverages,149.75,231.08
+SKU_0213,Dairy Baked 213,Dairy & Bakery,246.04,273.76
+SKU_0214,Beverage Snack 214,Snacks & Beverages,123.38,155.92
+SKU_0215,Personal Care 215,Personal Care,473.11,873.12
+SKU_0216,Beverage Snack 216,Snacks & Beverages,103.85,151.98
+SKU_0217,Staples Pack 217,Staples & Grains,360.2,428.69
+SKU_0218,Produce Item 218,Fresh Produce,55.68,74.81
+SKU_0219,Frozen Food 219,Instant & Frozen Foods,233.3,283.63
+SKU_0220,Beverage Snack 220,Snacks & Beverages,120.94,165.34
+SKU_0221,Frozen Food 221,Instant & Frozen Foods,139.02,190.09
+SKU_0222,Frozen Food 222,Instant & Frozen Foods,154.37,196.91
+SKU_0223,Personal Care 223,Personal Care,560.2,1026.4
+SKU_0224,Home Clean 224,Household & Cleaning,295.05,401.31
+SKU_0225,Produce Item 225,Fresh Produce,23.56,31.0
+SKU_0226,Frozen Food 226,Instant & Frozen Foods,297.52,384.71
+SKU_0227,Dairy Baked 227,Dairy & Bakery,172.61,207.01
+SKU_0228,Staples Pack 228,Staples & Grains,179.29,208.88
+SKU_0229,Dairy Baked 229,Dairy & Bakery,44.06,52.16
+SKU_0230,Personal Care 230,Personal Care,434.31,657.65
+SKU_0231,Personal Care 231,Personal Care,122.32,208.12
+SKU_0232,Dairy Baked 232,Dairy & Bakery,238.1,297.52
+SKU_0233,Produce Item 233,Fresh Produce,110.81,130.02
+SKU_0234,Dairy Baked 234,Dairy & Bakery,175.85,206.85
+SKU_0235,Beverage Snack 235,Snacks & Beverages,22.92,31.13
+SKU_0236,Dairy Baked 236,Dairy & Bakery,239.01,275.16
+SKU_0237,Staples Pack 237,Staples & Grains,669.94,738.97
+SKU_0238,Staples Pack 238,Staples & Grains,849.98,933.78
+SKU_0239,Home Clean 239,Household & Cleaning,175.36,283.25
+SKU_0240,Staples Pack 240,Staples & Grains,470.92,539.1
+SKU_0241,Dairy Baked 241,Dairy & Bakery,191.19,225.41
+SKU_0242,Staples Pack 242,Staples & Grains,589.69,698.88
+SKU_0243,Produce Item 243,Fresh Produce,79.89,103.8
+SKU_0244,Frozen Food 244,Instant & Frozen Foods,91.65,114.95
+SKU_0245,Staples Pack 245,Staples & Grains,613.49,708.56
+SKU_0246,Beverage Snack 246,Snacks & Beverages,164.42,247.03
+SKU_0247,Produce Item 247,Fresh Produce,19.59,24.31
+SKU_0248,Home Clean 248,Household & Cleaning,340.64,574.94
+SKU_0249,Beverage Snack 249,Snacks & Beverages,117.7,178.12
+SKU_0250,Dairy Baked 250,Dairy & Bakery,201.36,228.56

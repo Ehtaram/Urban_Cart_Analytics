@@ -1,0 +1,16 @@
+# Virtual Environments & Caches
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Local system & editor settings
+.vscode/
+.DS_Store
+
+# Power BI Binary Workbooks (Shielded from public repo)
+*.pbix
+
+# Temporary generation files
+project_tree.txt
