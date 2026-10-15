@@ -22,10 +22,10 @@ def draw_card(x, y, w, h, stroke="#233354", fill="#151E32", lw=1.5):
     )
     ax.add_patch(rect)
 
-# Top banner
+# Creating top banner
 draw_card(24, 986, 1872, 74)
 
-# Header typography
+# Creating header typography
 text_gold = TextArea(
     "FULFILLMENT & SLA AUDIT",
     textprops=dict(color="#FACC15", fontsize=18, fontweight="black", fontname="sans-serif")
@@ -54,20 +54,20 @@ header_box = AnnotationBbox(
 )
 ax.add_artist(header_box)
 
-# Left navigation and filter pillar
+# Creating left navigation and filter pillar
 draw_card(24, 24, 230, 948)
 
-# Slicer slots
+# Designing slicer slots
 for y in [648, 558, 468, 378]:
     draw_card(40, y, 198, 72, stroke="#38BDF8", fill="#0F172A", lw=1.2)
 
-# Navigation buttons
+# Creating navigation buttons
 draw_card(40, 168, 198, 42, stroke="#233354", fill="#151E32", lw=1.0)
 ax.text(139, 189, "<- PAGE 1: MACRO", color="#94A3B8", fontsize=9, ha="center", va="center")
 draw_card(40, 114, 198, 42, stroke="#38BDF8", fill="#1E293B", lw=1.5)
 ax.text(139, 135, "PAGE 3: WHAT-IF SIM ->", color="#38BDF8", fontsize=9, fontweight="bold", ha="center", va="center")
 
-# KPI summary cards
+# Creating KPI summary cards
 draw_card(274, 832, 388, 140)
 draw_card(682, 832, 388, 140)
 draw_card(1090, 832, 388, 140)

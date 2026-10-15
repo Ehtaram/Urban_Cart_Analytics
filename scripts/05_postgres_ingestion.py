@@ -3,11 +3,11 @@ import psycopg2
 from psycopg2.extras import execute_values
 import pandas as pd
 
-# Database Configuration (Update with your local PostgreSQL credentials)
+# Database Configuration
 DB_CONFIG = {
     "dbname": "urbancart_dw",
     "user": "postgres",
-    "password": "1234",  # <- Update this
+    "password": "1234",
     "host": "localhost",
     "port": 5432
 }
@@ -37,7 +37,7 @@ def ingest_dataframe(conn, df, table_name, schema="raw_retail"):
     cols = ",".join(list(df.columns))
     query = f"INSERT INTO {schema}.{table_name} ({cols}) VALUES %s"
     
-    # Replace NaN with None so psycopg2 inserts SQL NULL
+    # Replacing NaN with None so psycopg2 inserts SQL NULL
     records = df.replace({pd.NA: None, float("nan"): None}).values.tolist()
     
     print(f"Loading {len(records)} rows into {schema}.{table_name}...")
@@ -54,7 +54,7 @@ def main():
     conn = connect_db()
     
     # 1. Initialize DB structure
-    #initialize_schema(conn)        # Keep it commented
+    #initialize_schema(conn)
     
     # 2. Ingest Dimension Tables First (Parent records)
     df_customers = pd.read_csv(f"{PROCESSED_DIR}/dim_customers_clean.csv")

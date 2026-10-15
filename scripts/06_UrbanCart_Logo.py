@@ -3,7 +3,6 @@ import os
 os.makedirs("power_bi/assets", exist_ok=True)
 LOGO_PATH = "power_bi/assets/urbancart_logo.svg"
 
-# Clean UrbanCart Brand Logo without subtitle
 clean_logo_svg = """<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg">
     <!-- Shopping Cart Wireframe -->
     <path d="M14 20H24L32 48H58L64 28H28" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
